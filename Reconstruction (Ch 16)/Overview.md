@@ -1,0 +1,8 @@
+- "Unfinished revolution", promised but didn't deliver true equality or freed African Americans. 
+	- White supremacy, unregulated vigilance
+	- Northern republicans priorities shifted away from equality
+- New ways of:
+	- Organizing labor
+	- Family life
+	- New Institutions / government
+	- Economics
