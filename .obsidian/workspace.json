@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b73eb1a48a78a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reconstruction (Ch 16)/Lincoln v Andrew Johnson and Congress conflicts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb6871967d3972ce",
+  "active": "5b73eb1a48a78a9e",
   "lastOpenFiles": [
     "Reconstruction (Ch 16)/Overview.md",
     "Reconstruction (Ch 16)/Lincoln v Andrew Johnson and Congress conflicts.md",
