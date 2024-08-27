@@ -3,5 +3,57 @@
 	- northerners wanted to tame the "barbarous" region / free slaves
 	- Blacks wanted rights / votes / aid.
 - Not good for interracial democracy test. 
-	- Success dependant on Sustained Federal Support (gov money)
+	- Success dependent on Sustained Federal Support (gov money)
 	- Failed and reactionary / white supremacy unleashed.
+## Land and Labor
+- Civil war destroyed alot of land (broad black stream of desloation / ruin)
+- Economy not doing good
+	- Confederate currency fails
+	- No more slaves -> less cotten output (substantial)
+- New labor system needed to get ppl working so we can "reconstruct" (assuming best way to make money in south is cotton plantastion)
+	- Southerners though blacks only work when required to 
+	- Freedman don't want conditions anywhere need slavery 
+- Freedmen (blacks) wanted to stay in family units then do wage labor and stay on same land (not move to big city to work or walk to diff plantation)
+	-  Eventually blacks moved and signed up for contral labor 
+- Freedmans Bueru & General Sherman give out 40-acre plots for free(ish) gave out a bunch of land to blacks
+	- BUT..... Johnson shuts it down  <- ("you can't give out free stuff, they gotta work for it")
+	- also congress liked to keep property rights intact and they also kinda wanted to restore cotton production very soon asap
+	- "set free but with litterly nothing, not even money for next meal"
+- **Sharecropping**
+	- Landowner provide tools / land / seed to family -> provide labor, get 1/3 - 1/2 profit
+	- Became new servitude (had to live on "credit" till crops sold which was borrowed money at high intrest rates that they would need to work longer to repay) no money at end of year
+## Back to slavery??
+- or the long lasting american tradition of finding every legal loophole to make money, capitalism baby
+- **Black Codes** (jim crow laws)
+	- Seperation of blacks and whites (sometimes through law, sometimes just pressure from whites and private orgs achieving what the laws did even if illigal (civil rights act)
+	- Denied access to hotels, restruants, white places, 
+		- Republics tried to fix, (equal access to public places law) but wasn't enforcesed
+	- Made black employment a crime or property rights. All illegal but like who was gonna stop them, 
+	- Slavery - lite, don't really have freedom to do normal free stuff, the white people will hurt you and pressure you even if no actual laws in place
+- Violence aginsted blacks continued
+	- "White opponents of Radical Reconstruction adopted systematic terrorism and mob violence to keep blacks from the polls."
+	- kill hundreds - thousnads of blacks 1865 - 1866
+	- Blacks tried to make militas but were to weak
+
+## Southern Republican Party
+- Coaliation of 3 groups changing the constitution and trying to make money
+	- Buissness ppl who want gov aid for private stuff (carpetbaggers) or anti andrew johnson planters / merchants who now see oppertunity for (morally gray) industry in the south. 
+	- Poor white farmers who want less rich influence and don't want the creditors to take away their home 
+	- New black ppl who realise that the republicans wanna help them (educations/rights)
+- Fragile coallition (all groups very diff and sometimes conflicting intrists)
+	- HOWEVER it made more public education, democratized local / state gov and more public servies
+- Main goal was economic prosperty -> expensive rail subsidied -> corruption / politics = more taxes and debt so they can pay for it (Panic of 1873) 
+	- Pumping gov money to fix the problem dosn't seem to be working ): politiocal opponents can abuse this ("republicans ruined the south")
+	- Corruption common cause private interests can buy gov favors and politicians got profit from it. Embezzlement also common
+- President Grant and the Credit Mobilier scandal (accepted bribes and covered up crimes)
+	- Union Pacific Rail stocks siphoned into fraudlent Credit Mobiler company
+		- -> paid off congress and the VP 
+	- also millions of money of liquor taxes defrauded by secretary to prez
+- 2000 african americans got into public office during reconstruction  (smalls, robery brown,...)
+## Public and Private Rights
+- Freed slaves fought for  rights through...
+	- Courts: got married and rushed to claim kids
+		- Sued white ppl for violence 
+	- Made Churches, associations, schools (Methodist Episcopal (AME)) church
+	- Freedmans Schools: separated schooling viewed as opportunity (wanted to teach their kids right) ?? -> lead to segregated public school (by republicans...)
+	- 
