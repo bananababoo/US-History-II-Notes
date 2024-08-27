@@ -1,0 +1,7 @@
+- Issues faced:
+	- Struggle between old souths not wanting to give up freeish labor "free negros"
+	- northerners wanted to tame the "barbarous" region / free slaves
+	- Blacks wanted rights / votes / aid.
+- Not good for interracial democracy test. 
+	- Success dependant on Sustained Federal Support (gov money)
+	- Failed and reactionary / white supremacy unleashed.

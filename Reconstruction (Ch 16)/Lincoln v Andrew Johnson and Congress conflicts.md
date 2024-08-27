@@ -72,6 +72,8 @@ Wade-Davis Bill (Congress) {counter Ten Percent Bill}
 - Johnson says: no you can't do that, constiotution says seperation of powers
 - Congress: ill impeach you instead (politicoally)
 	- Said he violated Tenure of Office Act
-	- 
+	- and sabatoged restoration.
+	- Didn't get impeached cause some center republicans didn't want to set the precedent to impeach ppl who are restricting state freedoms.
+
 
 
