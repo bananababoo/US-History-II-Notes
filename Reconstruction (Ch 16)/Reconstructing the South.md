@@ -56,4 +56,3 @@
 		- Sued white ppl for violence 
 	- Made Churches, associations, schools (Methodist Episcopal (AME)) church
 	- Freedmans Schools: separated schooling viewed as opportunity (wanted to teach their kids right) ?? -> lead to segregated public school (by republicans...)
-	- 
