@@ -9,7 +9,7 @@ Ten Percent Plan: (Lincoln) {to shorten the war}
 Wade-Davis Bill (Congress) {counter Ten Percent Bill} 
 - If you swear loyalty and to not enslave African Americans, you can vote in continental convention 
 - No black suffrage, but required no slavery to be in new state constitution
-- Lincoln vetoed (didn't really like the plan) and now congress pissed off
+- Lincoln vetoed (didn't really like the plan) and now congress pissed off (radical republics -> booth)
 - Stalemate until end of war (Lincoln assassinated)
 ## Andrew Johnson
 - Congress didn't like his policies either -> "most serious crisis in relations between executive and legislative branches of federal government"
