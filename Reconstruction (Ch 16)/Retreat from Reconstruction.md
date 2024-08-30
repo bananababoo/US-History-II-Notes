@@ -5,7 +5,7 @@
 - Fifteenth Amendment: can't restrict voting based on race or condition as slave
 	- Still allowed for sneaky stuff like literacy tests, poll taxes or property ownership
 - Women still upset they can't vote: Susan B Anthony / Elizabeth Stanton
-	- Other feminests say that negros have had it worse and its good that they can vote, (no rebell needed)
+	- Other feminist's say that negros have had it worse and its good that they can vote, (no rebell needed)
 - Grant needs to enforce it cause republican power in south relied on black vote,
 	- even thought people stopped caring, thats how this got passed
 ## KKK Time

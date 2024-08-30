@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reconstruction (Ch 16)/Retreat from Reconstruction.md",
+                "file": "Reconstruction (Ch 16)/8-27 (16-1).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a393fbbd48346d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reconstruction (Ch 16)/Lincoln v Andrew Johnson and Congress conflicts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reconstruction (Ch 16)/Retreat from Reconstruction.md",
+                "file": "Reconstruction (Ch 16)/Lincoln v Andrew Johnson and Congress conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reconstruction (Ch 16)/Retreat from Reconstruction.md",
+                "file": "Reconstruction (Ch 16)/Lincoln v Andrew Johnson and Congress conflicts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reconstruction (Ch 16)/Retreat from Reconstruction.md"
+                "file": "Reconstruction (Ch 16)/Lincoln v Andrew Johnson and Congress conflicts.md"
               }
             }
           }
@@ -159,13 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84fa54b04fcfd9b2",
+  "active": "5a393fbbd48346d3",
   "lastOpenFiles": [
+    "Reconstruction (Ch 16)/8-29 (16-2).md",
+    "Reconstruction (Ch 16)/Overview.md",
+    "Reconstruction (Ch 16)/Lincoln v Andrew Johnson and Congress conflicts.md",
     "Reconstruction (Ch 16)/Reconstructing the South.md",
     "Reconstruction (Ch 16)/Retreat from Reconstruction.md",
     "Reconstruction (Ch 16)/8-27 (16-1).md",
-    "Reconstruction (Ch 16)/Lincoln v Andrew Johnson and Congress conflicts.md",
-    "Reconstruction (Ch 16)/Overview.md",
     "README.md",
     "Reconstruction (Ch 16)"
   ]
