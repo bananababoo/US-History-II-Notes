@@ -9,7 +9,7 @@
 - Civil war destroyed alot of land (broad black stream of desloation / ruin)
 - Economy not doing good
 	- Confederate currency fails
-	- No more slaves -> less cotten output (substantial)
+	- No more slaves -> less cotton output (substantial)
 - New labor system needed to get ppl working so we can "reconstruct" (assuming best way to make money in south is cotton plantastion)
 	- Southerners though blacks only work when required to 
 	- Freedman don't want conditions anywhere need slavery 

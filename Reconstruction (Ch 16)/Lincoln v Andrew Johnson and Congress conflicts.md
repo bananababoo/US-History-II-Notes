@@ -15,10 +15,10 @@ Wade-Davis Bill (Congress) {counter Ten Percent Bill}
 - Congress didn't like his policies either -> "most serious crisis in relations between executive and legislative branches of federal government"
 	- He thought "every head of family in the US had one slave to take the drudgery and menial service off his family" (slavery is fine he thought)
 - Was put as VP (like walz) to make more centeral election, wasn't meant to be prez, 
-	- Super far right??? liked to punish southern traitors/prevent power gain
+	- liked to punish southern traitors/prevent power gain (south poor rep)
 	- bad guy but also not (cause people are complex)
 - **13th amendment -> Prohibits slavery**
-- Put confederate states under republican provisional governments 
+- Put democrate states previously republican govs under confederate provisional governments 
 	- made sure only loyal whites could vote
 	- Confed leaders and **rich people** (johnson grew up poor) had to apply for pardon to get rank / money / land back
 - Confederate states put **black codes** ^09ed76
@@ -31,14 +31,14 @@ Wade-Davis Bill (Congress) {counter Ten Percent Bill}
 - Republicans (congress) didn't want the southerners to regain power / influence through being mean to black people.
 - They didn't nessecairly thing blacks are equal to white but that all ppl in USA are equal regardless of race **(plus the freed blacks would vote for republicans if they could)**
 - Freedmen's Bureau
-	- Agency to provide stuff (food water medicine) for freed men (uninslaveds) 
-	- Johnson vetos this and Black Codes[#^09ed76] (overridden by congress, first time in a while veto overrulled)
+	- Agency to provide stuff (food water medicine) for freed men (uninslaved) 
+	- Johnson vetos this and Black Codes[#^09ed76] (overridden by congress, first time in a while veto overruled)
 - Johnson then makes new conservative party( few republicans + south dems)
-- Congress, now scared a little, passes 14th ammendment
+- Congress, now scared a little, passes 14th amendment
 	- Citizenship to ex slaves and protect equal rights to all ppl born in USA (citizens)
 	- States need to accept (radify) it to join back
 		- Johnson dosn't like 
-			- Central governemnt with all power controlling, wanted stats to make own policies
+			- Central government with all power controlling, wanted stats to make own policies
 			- Told the states to not accept it (all but Tennessee listened )
 	- White ppl Riots aginsted blacks made it clear that states couldn't do "life liberty property" protection of ex slaves
 - Johnson does a trump. Goes around the country cussing his polit opponents out 
@@ -48,7 +48,7 @@ Wade-Davis Bill (Congress) {counter Ten Percent Bill}
 - (Ended slavery, rights of due process / equal protection, right to vote (not women tho lol) )
 - Didn't really finish the "Reconstruction"
 	-  Amendments not fully followed, only really carried out to protect business corporations
-	- equal protection = affermative action?
+	- equal protection = affirmative action?
 	- Due process = reproductive choice?
 
 ## Congress Reconstruction Plan Effects (Radical)
