@@ -128,13 +128,21 @@
                 "file": "Reconstruction (Ch 16)/Overview.md"
               }
             }
+          },
+          {
+            "id": "d0dcf2ced77279e6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,13 +156,13 @@
   },
   "active": "5b73eb1a48a78a9e",
   "lastOpenFiles": [
+    "Reconstruction (Ch 16)/Overview.md",
     "Reconstruction (Ch 16)/8-29 (16-2).md",
     "Reconstruction (Ch 16)/Retreat from Reconstruction.md",
     "Reconstruction (Ch 16)/8-27 (16-1).md",
     "Reconstruction (Ch 16)/Reconstructing the South.md",
     "Reconstruction (Ch 16)/Untitled.md",
     "Reconstruction (Ch 16)/Lincoln v Andrew Johnson and Congress conflicts.md",
-    "Reconstruction (Ch 16)/Overview.md",
     "README.md",
     "Reconstruction (Ch 16)"
   ]
