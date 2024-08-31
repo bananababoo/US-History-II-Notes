@@ -1,3 +1,4 @@
+
 - How far should gov go to secure freedom for former slaves?
 
 Ten Percent Plan: (Lincoln) {to shorten the war} 
