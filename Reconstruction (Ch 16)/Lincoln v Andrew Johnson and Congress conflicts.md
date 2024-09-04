@@ -18,7 +18,7 @@ Wade-Davis Bill (Congress) {counter Ten Percent Bill}
 - Was put as VP (like walz) to make more centeral election, wasn't meant to be prez, 
 	- liked to punish southern traitors/prevent power gain (south poor rep)
 	- bad guy but also not (cause people are complex)
-- **13th amendment -> Prohibits slavery**
+- ## **13th amendment -> Prohibits slavery**
 - Put democrate states previously republican govs under confederate provisional governments 
 	- made sure only loyal whites could vote
 	- Confed leaders and **rich people** (johnson grew up poor) had to apply for pardon to get rank / money / land back
@@ -35,8 +35,8 @@ Wade-Davis Bill (Congress) {counter Ten Percent Bill}
 	- Agency to provide stuff (food water medicine) for freed men (uninslaved) 
 	- Johnson vetos this and Black Codes[#^09ed76] (overridden by congress, first time in a while veto overruled)
 - Johnson then makes new conservative party( few republicans + south dems)
-- Congress, now scared a little, passes 14th amendment
-	- Citizenship to ex slaves and protect equal rights to all ppl born in USA (citizens)
+- ## Congress, now scared a little, passes  14th amendment (Black citizenship)
+	- Citizenship to ex slaves and protect equal rights to all ppl born in USA (**citizens**)
 	- States need to accept (radify) it to join back
 		- Johnson dosn't like 
 			- Central government with all power controlling, wanted stats to make own policies
