@@ -8,7 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b73eb1a48a78a9e",
+            "id": "eb6871967d3972ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reconstruction (Ch 16)/Reconstructing the South.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84fa54b04fcfd9b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reconstruction (Ch 16)/8-27 (16-1).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a393fbbd48346d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reconstruction (Ch 16)/8-29 (16-2).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e6acd8604d1bf9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +56,19 @@
             }
           },
           {
-            "id": "5cb251cb528d5de6",
+            "id": "fa1f75515ada88f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reconstruction (Ch 16)/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff6b6658b1d3894a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The West Exploiting Natives (Ch 17)/Settlement of the West.md",
+                "file": "The West Exploiting Natives (Ch 17)/9-5 (17-1).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 300
   },
   "right": {
     "id": "8274440c2ef261f4",
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The West Exploiting Natives (Ch 17)/Settlement of the West.md",
+                "file": "The West Exploiting Natives (Ch 17)/9-5 (17-1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The West Exploiting Natives (Ch 17)/Settlement of the West.md",
+                "file": "The West Exploiting Natives (Ch 17)/9-5 (17-1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,24 +174,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The West Exploiting Natives (Ch 17)/Settlement of the West.md"
+                "file": "The West Exploiting Natives (Ch 17)/9-5 (17-1).md"
               }
             }
-          },
-          {
-            "id": "d0dcf2ced77279e6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,24 +195,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff6b6658b1d3894a",
+  "active": "fa1f75515ada88f6",
   "lastOpenFiles": [
-    "Reconstruction (Ch 16)/9-3 (16-3).md",
-    "Ammendments.md",
-    "The West Exploiting Natives (Ch 17)/Removing the Indians.md",
     "The West Exploiting Natives (Ch 17)/Settlement of the West.md",
+    "The West Exploiting Natives (Ch 17)/9-5 (17-1).md",
+    "The West Exploiting Natives (Ch 17)/Removing the Indians.md",
     "The West Exploiting Natives (Ch 17)/Beyond the Frontier.md",
     "The West Exploiting Natives (Ch 17)/Overview.md",
-    "Reconstruction (Ch 16)/Retreat from Reconstruction.md",
-    "Reconstruction (Ch 16)/Reunion and the New South.md",
-    "Reconstruction (Ch 16)/Timeline.md",
-    "Reconstruction (Ch 16)/Reconstructing the South.md",
-    "Reconstruction (Ch 16)/Lincoln v Andrew Johnson and Congress conflicts.md",
-    "Reconstruction (Ch 16)/Overview.md",
     "Pasted image 20240902231724.png",
-    "The West Exploiting Natives (Ch 17)",
-    "New Text Document.txt",
+    "Reconstruction (Ch 16)/Overview.md",
+    "Reconstruction (Ch 16)/9-3 (16-3).md",
+    "Ammendments.md",
+    "Reconstruction (Ch 16)/Timeline.md",
+    "Reconstruction (Ch 16)/Retreat from Reconstruction.md",
+    "Reconstruction (Ch 16)/Lincoln v Andrew Johnson and Congress conflicts.md",
+    "Reconstruction (Ch 16)/Reconstructing the South.md",
+    "Reconstruction (Ch 16)/Reunion and the New South.md",
     "Reconstruction (Ch 16)/8-29 (16-2).md",
+    "The West Exploiting Natives (Ch 17)",
     "Reconstruction (Ch 16)/8-27 (16-1).md",
     "README.md",
     "Reconstruction (Ch 16)"
