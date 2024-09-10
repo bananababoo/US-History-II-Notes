@@ -19,7 +19,7 @@ Wade-Davis Bill (Congress) {counter Ten Percent Bill}
 	- liked to punish southern traitors/prevent power gain (south poor rep)
 	- bad guy but also not (cause people are complex)
 - ## **13th amendment -> Prohibits slavery**
-- Put democrate states previously republican govs under confederate provisional governments 
+- Put democrate states previously republican govs under repub provisional governments 
 	- made sure only loyal whites could vote
 	- Confed leaders and **rich people** (johnson grew up poor) had to apply for pardon to get rank / money / land back
 - Confederate states put **black codes** ^09ed76
