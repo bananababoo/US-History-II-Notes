@@ -37,7 +37,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "The Industrial Society (Ch 18)/Overview.md",
+=======
+                "file": "The Industrial Society (Ch 18)/Industrial Development.md",
+>>>>>>> 5031d97 (changes)
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +114,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "The Industrial Society (Ch 18)/Overview.md",
+=======
+                "file": "The Industrial Society (Ch 18)/Industrial Development.md",
+>>>>>>> 5031d97 (changes)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "The Industrial Society (Ch 18)/Overview.md",
+=======
+                "file": "The Industrial Society (Ch 18)/Industrial Development.md",
+>>>>>>> 5031d97 (changes)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "The Industrial Society (Ch 18)/Overview.md"
+=======
+                "file": "The Industrial Society (Ch 18)/Industrial Development.md"
+>>>>>>> 5031d97 (changes)
               }
             }
           },
@@ -181,8 +197,13 @@
   },
   "active": "ff6b6658b1d3894a",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "The Industrial Society (Ch 18)/Industrial Development.md",
     "The Industrial Society (Ch 18)/Overview.md",
+=======
+    "The Industrial Society (Ch 18)/Overview.md",
+    "The Industrial Society (Ch 18)/Industrial Development.md",
+>>>>>>> 5031d97 (changes)
     "The Industrial Society (Ch 18)/Wage Earners.md",
     "The Industrial Society (Ch 18)/The Sellers.md",
     "Reconstruction (Ch 16)/Lincoln v Andrew Johnson and Congress conflicts.md",
