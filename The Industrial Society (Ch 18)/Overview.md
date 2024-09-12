@@ -1,6 +1,10 @@
-
-
-
+- Industrial society came slowly then all at once
+- New inventions, linoleum, root bear, bicycles, typewriters, elevators (Otis, railroad breaks all (Westinghousekinds of stuff
+- Some people against, thought industrial society was like the snake from the bible
+- Corliss engine (steam) represented new advances and nations want for more tech
+- Manufacturing output exceeds all of Europe
+- Rail Steel Oil, 
+- Alaxander Gram Bell, Thomans Edison, 
 
 
 
