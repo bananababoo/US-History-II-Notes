@@ -1,6 +1,6 @@
 Who were the wage earners in the new economy?
 
-Entrepenuers were not
+Entrepreneurs were not
 - while they had some cool ideas and stuff it wasn't one or a few people
 
 Millions of ordinary ppl:
