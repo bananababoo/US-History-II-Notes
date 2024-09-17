@@ -7,8 +7,17 @@
 - Alaxander Gram Bell, Thomans Edison, 
 
 
+After Civil War, US becomes industrial Nation. 
+- Progress, abundance, power
+- Standard of Living Rose
+- Also means rapid change, social instability, exploitation, rich v poor divide
+- System became cooperate capitalism. Giant businesses, national economy, selling ever expanding variety of goods in more and more controlled markets
+- Aggressive Materialism
+- Workers still made just enough to live
 
-
+- Gilded Age:
+	- Expansion of US manufacturing & industry.
+	- Moment where people realized they would be workers for life
 
 
 
