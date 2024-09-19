@@ -22,3 +22,6 @@ Why did cities in the United States grow between  1880 and 1900?
 - Previously, all classes / occupations thrown together
 - Because of StreetCar cities, (+ more transit), society fragmented
 - Middle class residential rings, business working class core (human geo stuff, remember?)
+
+## Tenements and Problems of Overcrowding
+- 
